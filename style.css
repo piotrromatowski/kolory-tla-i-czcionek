@@ -1,0 +1,44 @@
+
+body {
+    background-color: cornflowerblue;
+}
+
+.tytuł {
+    background-color: khaki;
+}
+
+.tekst1 {
+    background-color: lightcoral;
+}
+
+.tytuł2 {
+    background-color: lightslategray;
+}
+
+.tekst2 {
+    background-color: mediumorchid;
+}
+
+.lista {
+    background-color: orange;
+}
+
+.podpunkt1 {
+    background-color: palevioletred;
+}
+
+.podpunkt2 {
+    background-color: purple;
+}
+
+.podpunkt3 {
+    background-color: seagreen;
+}
+
+.podpunkt4 {
+    background-color: springgreen;
+}
+
+.podpunkt5 {
+    background-color: yellow;
+}
